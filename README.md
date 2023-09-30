@@ -1,46 +1,41 @@
-# Getting Started with Create React App
+### Bank Card Manager App
+![Alt text](<Skärmbild (200).png>)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Description
+Bank Card Manager App is a simple web application built with React and Redux that allows users to manage their bank card information. Users can easily add, edit, and delete card details and have an overview of their cards.
 
-## Available Scripts
+### Features
+Add new bank cards with information such as card number, expiration date, and name.
+Edit existing bank card details.
+Remove bank cards from the list.
+View a list of all bank cards.
+User-friendly and straightforward interface.
 
-In the project directory, you can run:
+### Technologies and Tools
+React: The frontend framework for building the user interface.
+Redux: For managing state and data flow in the application.
+React Router: For handling navigation between different pages in the app.
+Firebase: Backend used for storing and retrieving card details.
+CSS: Custom styling using CSS to make the app visually appealing and user-friendly.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Installation
+To run the app locally on your computer, follow these steps:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Clone this repo to your local machine using git clone.
+Navigate to the project folder using cd bank-card-manager-app.
+Install dependencies using npm install.
+Start the app with npm start.
+Usage
+Navigate to the homepage to view your list of bank cards.
+Click "Add Card" to add a new bank card.
+Click on a card to edit its details or click "Remove" to delete the card.
+Contribution
+We welcome contributions and improvement suggestions. If you wish to 
 
-### `npm test`
+### contribute to the project, follow these steps:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Fork the project on GitHub.
+Create a separate branch for your work.
+Make your changes and improvements.
+Create a pull request back to this repo.
