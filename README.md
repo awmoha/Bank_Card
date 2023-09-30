@@ -29,13 +29,9 @@ Start the app with npm start.
 Usage
 Navigate to the homepage to view your list of bank cards.
 Click "Add Card" to add a new bank card.
-Click on a card to edit its details or click "Remove" to delete the card.
+Click on a card to edit its details or click double to delete the card.
 Contribution
 We welcome contributions and improvement suggestions. If you wish to 
 
-### contribute to the project, follow these steps:
 
-Fork the project on GitHub.
-Create a separate branch for your work.
-Make your changes and improvements.
-Create a pull request back to this repo.
+### Moha Awad2023-2024
